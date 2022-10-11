@@ -10,7 +10,7 @@
 ## 封装库
 项目 | 状态 | 简介
 :---:|:---:|:---
-[AgileDev](https://github.com/LZ9/AgileDev) | 已停服 | 基于Java的Android开发脚手架
+[AgileDev](https://github.com/LZ9/AgileDev) | 停止维护 | 基于Java的Android开发脚手架
 [AgileDevKt](https://github.com/LZ9/AgileDevKt) | 维护中 | 基于Kotlin语法的敏捷开发脚手架，包含了常用工具类、基类和控件的封装，你所要的一切都在Pandora的盒子里
 [Hermes](https://github.com/LZ9/Hermes) | 维护中 | 基于MQTT或WebSocket的推送封装。其中WebSocket可作为客户端或者服务的使用
 [MMSPlayer](https://github.com/LZ9/MMSPlayer) | 维护中 | 基于IJK播放器封装的视频lib实现基础视频播放，界面可自定义
