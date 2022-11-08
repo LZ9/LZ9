@@ -16,6 +16,7 @@
 [MMSPlayer](https://github.com/LZ9/MMSPlayer) | 维护中 | 基于IJK播放器封装的视频lib实现基础视频播放，界面可自定义
 [JsBridgeKt](https://github.com/LZ9/JsBridgeKt) | 维护中 | 将lzyzsd的JsBridge库转为了kotlin版本，并对WebView做了解耦，支持继承自定义的WebView来实现JS交互
 [Conjurer](https://github.com/LZ9/Conjurer) | 维护中 | Kotlin版本的OCR扫描组件，支持离线识别、相机拍照识别、传入指定图片识别，具备一定的业务使用场景。
+[Radarny](https://github.com/LZ9/Radarny) | 维护中 | Radarny是一个简单的雷达多维图表控件，支持动画渲染。
 [Minerva](https://github.com/LZ9/Minerva) | 填坑中 | 音频录制生成组件，支持wav和mp3格式，支持VAD端点检测
 [Eagles](https://github.com/LZ9/Eagles) | 填坑中 | 二维码和条形码扫描组件
 
