@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LZ9&theme=algolia" width="450"/>
 </p>
 
-<p align="center">我是一个普通的程序员，做一些简单的封装和重构。</p>
+<p align="center">让代码证明你来过这个世界</p>
 <p align="center">如果有工程可以帮助到你，一个Star就是我们情谊的见证(●'◡'●)</p>
 
 ## 封装库
