@@ -7,6 +7,12 @@
 <p align="center">让代码证明你来过这个世界</p>
 <p align="center">如果有工程可以帮助到你，一个Star就是我们情谊的见证(●'◡'●)</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D"/>
+<img src="https://img.shields.io/badge/Kotlin-%2335495e.svg?&style=for-the-badge&logo=kotlin&logoColor=%FF7F52FF"/>
+<img src="https://img.shields.io/badge/CSharp-%2335495e.svg?&style=for-the-badge&logo=CSharp"/>
+</p>
+
 ## 封装库
 项目 | 状态 | 简介
 :---:|:---:|:---
