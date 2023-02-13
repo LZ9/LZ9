@@ -1,9 +1,5 @@
 <h1 align="center">留痕</h1>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LZ9&theme=algolia" width="450"/>
-</p>
-
 <p align="center">让代码证明你来过这个世界</p>
 <p align="center">如果有工程可以帮助到你，一个Star就是我们情谊的见证(●'◡'●)</p>
 
@@ -11,6 +7,11 @@
 <img src="https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D"/>
 <img src="https://img.shields.io/badge/Kotlin-%2335495e.svg?&style=for-the-badge&logo=kotlin&logoColor=%FF7F52FF"/>
 <img src="https://img.shields.io/badge/CSharp-%2335495e.svg?&style=for-the-badge&logo=CSharp"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LZ9&theme=algolia" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZ9&theme=algolia&layout=compact&langs_count=20" />
 </p>
 
 ## 封装库
